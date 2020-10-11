@@ -1,0 +1,41 @@
+body { 
+  background: url("../images/Black-Background-Wood-black-wallpaper.jpg") no-repeat center center fixed ; 
+ background-size:100% 100% ;
+text-align: center;
+}
+
+h1{color: darkgoldenrod;font-family: serif;font-size: 150px;font-weight: bold;text-align: center;font-style: italic;font-family: monospace;user-select: none;text-shadow: 3px 5px black}
+img{border-radius: 350%;margin-left: none}
+button{
+	border: 2px solid black;
+	background-color:burlywood;
+	color:brown;
+    margin-top: 40px;
+    object-position: center;
+    padding: 10px 30px;
+    text-align: center;
+    display:block ;
+    margin-left: 45%;
+    align-content: center;
+    cursor: pointer;
+    height: 40px;
+    width: 120px;
+    font-weight:600;
+   border-radius: 20px;
+    outline: none;
+  box-shadow: 1px 7px 1px dimgray ; 
+
+    
+}
+button:hover{color: aliceblue;background-color:black}
+
+.one{font-size: 13px;padding: 5px}
+.two{cursor: help}
+.three{padding: 2px}
+.four{}
+
+a{text-decoration-line: none }
+div{margin-top: 40px;display: block}
+button:active{transform: translateY(4px)}
+.sound{float: right;outline: none;margin-right: 25px;user-select:none;margin-bottom: 0px;padding: 0;display: block}
+input{outline: none;user-select: none}

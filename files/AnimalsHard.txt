@@ -1,0 +1,10 @@
+AlaskanMalamute
+Binturong
+Chimpanzee
+Grasshopper
+Wolverine
+WhaleShark
+Nightingale
+MarineToad
+Salamander
+Rhinoceros

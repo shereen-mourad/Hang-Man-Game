@@ -1,0 +1,10 @@
+Baboon
+Camel
+Donkey
+Eagle
+Koala
+Lizard
+Falcon
+Mouse
+Monkey
+Tiger

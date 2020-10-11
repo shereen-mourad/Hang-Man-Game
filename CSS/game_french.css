@@ -1,0 +1,14 @@
+body{background: url(../images/backdrop-874452_960_720.jpg)  no-repeat center center fixed ; background-size:100% 100% ;
+text-align: center}
+input[type=text]{width:150px;height: 30px;text-align: center;margin-bottom: 20px;border-radius: 10%;background-color:;font-weight: bold;outline: none;font-size: 25px;box-shadow:  0 0 5px 3px grey;border: 2px grey ;border-style:inset}
+
+
+input[type=button]{ font-size: 30px;border: 4px;border-style:solid;border-color:grey;border-radius: 40%;user-select: none;padding: 5px;margin-right: 45px;background-color:brown;font-weight: bold;box-shadow:0 0 0px 3px black;width: 150px;height:60px}
+input[type=submit]{ font-size: 30px;border: 4px;border-style:solid;border-color:dimgray;color:;border-radius: 30%;user-select: none;padding: 10px;margin-right: 45px;background-color:brown;font-weight: bold;box-shadow: 0 0 0px 3px black;outline: none;margin-left: 60px}
+input:active{background-color:darkslategray;transform: translateY(4px);outline: none}
+input[type=text]:active{background-color: navajowhite;transform:none}
+input{margin-top: 20px;outline: none}
+.pause{float: right;outline: none;margin-bottom: 5px;margin-right: 10px;margin-left: 5px}
+.sound{float: right;margin-top: 7px;outline: none}
+img{margin-bottom: 110px;margin-left: 10%}
+input{user-select: none;outline: none}
